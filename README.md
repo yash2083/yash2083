@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Student • 🤖 AI/ML Tinkerer • 🌐 Full-Stack Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=B.E+in+CSE(Cyber+Security)+%40+R.V.+College+Of+Engineering;Marketing+%26+PR+Lead+%40+GDG+RVCE;Building+Cool+Stuff+with+AI+%26+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BE+CSE(Cyber+Security)+%40+R.V.+College+Of+Engineering;Marketing+%26+PR+Lead+%40+GDG+RVCE;Building+Cool+Stuff+with+AI+%26+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
