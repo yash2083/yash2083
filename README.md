@@ -4,7 +4,7 @@
 
 ### 🔐 Cybersecurity Student • 🤖 AI/ML Tinkerer • 🌐 Full-Stack Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BE+Cyber+Security+%40+RVCE+Bangalore;Marketing+%26+PR+Lead+%40+GDG+RVCE;Building+Cool+Stuff+with+AI+%26+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=BE+CSE(Cyber+Security)+%40+RVCE+Bangalore;Marketing+%26+PR+Lead+%40+GDG+RVCE;Building+Cool+Stuff+with+AI+%26+Code+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 Hey! I'm a **3rd-year CSE(Cyber Security) student at RV College of Engineering, Bengaluru** with a love for building things that are equal parts smart and useful. I bridge the gap between **security-first thinking** and **full-stack development** — from deploying RAG pipelines to edge AI fire detectors.
 
-When I'm not pushing commits, you'll find me as the **Marketing & PR Lead at Google Developer Group RVCE** 🟢, helping grow our tech community and connecting students with real-world opportunities.
+When I'm not pushing commits, you'll find me as the **Marketing & PR Lead at Google Developer Group RVCE**, helping grow our tech community and connecting students with real-world opportunities.
 
 - 🔭 Currently building: **AI-powered full-stack projects**
 - 🌱 Exploring: **LLMs, RAG pipelines, computer vision & edge AI**
