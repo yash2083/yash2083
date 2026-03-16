@@ -132,7 +132,7 @@ An interactive browser-based simulator for **Round Robin & Priority Scheduling**
 ### 💡 Words I Live By
 
 > *"Security is not a product, but a process — and neither is learning."*
-> — Bruce Schneier (adapted)
+> — Bruce Schneier
 
 ---
 
